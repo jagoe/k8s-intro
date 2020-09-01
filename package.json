@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/jagoe/k8s-intro#readme",
   "dependencies": {
-    "reveal-md": "^3.3.0"
+    "reveal-md": "^4.1.3"
   }
 }
